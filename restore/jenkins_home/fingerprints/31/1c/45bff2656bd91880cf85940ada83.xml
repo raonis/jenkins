@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2017-10-22 22:22:46.665 UTC</timestamp>
+  <md5sum>311c45bff2656bd91880cf85940ada83</md5sum>
+  <fileName>Credential id=00602886-605f-4236-9963-a0f1fa8197ae name=raonis/******</fileName>
+  <usages>
+    <entry>
+      <string>wordpress-start</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
